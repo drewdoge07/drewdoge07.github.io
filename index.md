@@ -4,7 +4,7 @@ This is my home page! My name is Andrew Valdivia and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/drewdoge07/drewdoge07.github.io.git 
+My GitHub page can be found [here!] (https://github.com/drewdoge07/drewdoge07.github.io.git)
 
 ### CPSC 120
 
