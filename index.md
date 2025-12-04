@@ -12,8 +12,8 @@ My GitHub page can be found [here!][https://github.com/drewdoge07/drewdoge07.git
 
     For the second lab, I consider it to be one of my favorites as it is when my coding journey essentially started. 
     We were tasked with understanding and utilizing the basic fundamentals and building blocks of programming and 
-    that can be seen primarily through the main concept of the lab that being [Strings.](en.cppreference.com/w/cpp/string.html)
-    The main task at hand was learning how to declare a string in C++ and utilizing that to creat our own minature version of
+    that can be seen primarily through the main concept of the lab that being strings.
+    The main task at hand was learning how to declare a string in C++ and utilizing that to create our own minature version of
     the word game Mad Libs. What made this the most captivating for me was simply that this was something new I was learning 
     and once I saw my work pay off by the code actually running, I was pretty ecstatic to say the least.
 
