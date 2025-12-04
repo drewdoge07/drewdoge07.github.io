@@ -4,7 +4,7 @@ This is my home page! My name is Andrew Valdivia and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page can be found [here!] (https://github.com/drewdoge07/drewdoge07.github.io.git)
+My GitHub page can be found [here!][https://github.com/drewdoge07/drewdoge07.github.io.git]
 
 ### CPSC 120
 
@@ -36,3 +36,5 @@ My GitHub page can be found [here!] (https://github.com/drewdoge07/drewdoge07.gi
     that is going on behind the scenes to perform these calculations. The first part was primarily my favorite as it was the main one 
     I got to work on and contribute the most to. I found it so interesting as to how we can attribute things like "score_sum" to 
     an actual value and have that connect and react with other values, functions and concepts.
+
+[https://github.com/drewdoge07/drewdoge07.github.io.git]: https://github.com/drewdoge07/drewdoge07.github.io.git
